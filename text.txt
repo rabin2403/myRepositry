@@ -1,3 +1,7 @@
 These is first commit
+second Commit
+
 
 //first commit
+
+//some changes
